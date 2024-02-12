@@ -1,6 +1,8 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=hung0056&show_icons=true&theme=vue&hide_title=true" />
 
-### Hi there 👋
+### Hi there 👋, this is Hung
+
+- I'm a student at [UNETI](https://uneti.edu.vn) majoring in data science
 
 <!--
 **hung0056/hung0056** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
